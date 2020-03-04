@@ -118,3 +118,4 @@ console.log(String(Boolean(0)))
 //boolean returns true or false
 //output=true
 console.log(Boolean('moni'))
+
